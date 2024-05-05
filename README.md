@@ -1,1 +1,1 @@
-# Danish-ML-project
+# ML-project
